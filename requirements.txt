@@ -2,3 +2,5 @@ pyrogram
 tgcrypto
 requests
 Pillow
+flask
+flask_restful
